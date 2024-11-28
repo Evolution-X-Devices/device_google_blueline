@@ -2,5 +2,9 @@
   {
     "repository": "device_google_crosshatch",
     "target_path": "device/google/crosshatch"
+  },
+  {
+    "repository": "device_google_blueline",
+    "target_path": "device/google/blueline"
   }
 ]
